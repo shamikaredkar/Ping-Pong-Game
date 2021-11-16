@@ -253,7 +253,7 @@ function gameStop() {
         setTimeout (function () {
             alert("AI wins! Game Over!")
             window.close();
-        }, 100)
+        }, 50)
         
     }
 }

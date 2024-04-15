@@ -1,3 +1,5 @@
+![Gameplay Demo](https://github.com/shamikaredkar/Ping-Pong-Game/blob/main/Preview.gif)
+
 # Ping Pong Game
 
 Welcome to the Ping Pong Game! This project is a simple yet engaging game built with HTML5 Canvas and JavaScript, allowing players to enjoy a classic game of ping pong right from their web browsers.
